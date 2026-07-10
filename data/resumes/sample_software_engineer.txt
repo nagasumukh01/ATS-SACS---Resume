@@ -1,0 +1,32 @@
+John Doe
+john.doe@email.com | (123) 456-7890 | Seattle, WA
+
+SUMMARY
+Experienced and results-driven Software Engineer with 4 years of professional experience specializing in backend architectures, cloud applications, and microservices. Proven history of optimizing database performance and spearheading backend API developments.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, SQL, HTML, CSS
+Frameworks & Libraries: Django, Flask, React, NumPy, Pandas
+Databases: PostgreSQL, MySQL, Redis
+Tools & DevOps: Git, Docker, GitHub Actions, Linux
+Methodologies: Agile, Scrum, Problem Solving, Collaboration
+
+WORK EXPERIENCE
+Software Engineer | CloudScale Systems (May 2022 - Present)
+- Spearheaded the design and implementation of a core Django REST API service, increasing API response throughput by 35% and reducing latency.
+- Containerized legacy microservices using Docker, streamlining local development setups and dev environment alignment.
+- Optimized complex PostgreSQL database queries and indexes, saving over 12 hours of weekly database maintenance tasks.
+- Collaborated closely with cross-functional React front-end engineering teams to deliver responsive features.
+
+Junior Developer | ByteCraft Solutions (June 2020 - April 2022)
+- Maintained and updated Flask backend APIs for a high-traffic e-commerce portal.
+- Configured automated test suites via GitHub Actions, decreasing integration build failures by 20%.
+- Participated in weekly Agile standups and sprint planning sessions to coordinate deliverables.
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University, 2016 - 2020
+
+CERTIFICATIONS
+AWS Certified Solutions Architect (Associate)
+Certified Scrum Master (CSM)

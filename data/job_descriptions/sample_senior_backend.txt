@@ -1,0 +1,17 @@
+Position: Senior Backend Engineer - Python
+
+We are seeking a Senior Backend Engineer to join our cloud platform team. In this role, you will design, build, and optimize scalable APIs and data processing systems.
+
+Requirements:
+- 5+ years of experience in backend development.
+- Strong proficiency in Python and FastAPI or Django.
+- Experience with containerization using Docker and orchestration with Kubernetes.
+- Hand-on experience deploying and managing services on AWS.
+- Strong experience with SQL databases, particularly PostgreSQL.
+- Excellent communication and collaboration skills.
+
+Responsibilities:
+- Architect and develop secure, high-performance APIs.
+- Containerize application environments and manage deployment configurations in Kubernetes.
+- Drive database schema migrations and perform backend query optimizations.
+- Work closely with frontend and product teams in an Agile environment.

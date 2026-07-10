@@ -1,0 +1,68 @@
+SkillName,Category,Synonyms,ParentSkill,WeightMultiplier
+Python,Programming Language,"python,py,python3,cpython",Programming Languages,1.2
+Java,Programming Language,"java,jdk,jre",Programming Languages,1.0
+C++,Programming Language,"c++,cpp,c plus plus",Programming Languages,1.1
+C#,Programming Language,"c#,csharp,c sharp",Programming Languages,1.0
+JavaScript,Programming Language,"javascript,js,es6,ecmascript",Programming Languages,1.1
+TypeScript,Programming Language,"typescript,ts",Programming Languages,1.1
+Go,Programming Language,"go,golang",Programming Languages,1.1
+Rust,Programming Language,"rust,rustlang",Programming Languages,1.1
+SQL,Programming Language,"sql,mysql,sqlite,postgresql,plsql",Programming Languages,1.0
+HTML,Programming Language,"html,html5",Programming Languages,0.8
+CSS,Programming Language,"css,css3,scss,sass",Programming Languages,0.8
+R,Programming Language,"r programming,r-lang",Programming Languages,1.0
+PHP,Programming Language,"php,php8",Programming Languages,0.8
+Ruby,Programming Language,"ruby,jruby",Programming Languages,0.8
+Swift,Programming Language,"swift,swiftui",Programming Languages,1.0
+Kotlin,Programming Language,"kotlin,kotlinc",Programming Languages,1.0
+Django,Framework,"django,drf,django rest framework",Python,1.1
+Flask,Framework,"flask,flask-restful",Python,1.0
+FastAPI,Framework,fastapi,Python,1.1
+React,Framework,"react,reactjs,react.js",JavaScript,1.2
+Angular,Framework,"angular,angularjs,angular.js",JavaScript,1.0
+Vue.js,Framework,"vue,vuejs,vue.js",JavaScript,1.0
+Next.js,Framework,"nextjs,next.js",React,1.2
+Spring Boot,Framework,"spring boot,springboot,spring",Java,1.1
+Express.js,Framework,"express,expressjs,express.js",JavaScript,1.0
+TensorFlow,Framework,"tensorflow,tf,tf2",AI/ML,1.2
+PyTorch,Framework,"pytorch,torch",AI/ML,1.2
+Scikit-Learn,Framework,"scikit-learn,sklearn",AI/ML,1.1
+Pandas,Framework,pandas,Python,1.0
+NumPy,Framework,numpy,Python,0.9
+AWS,Cloud,"aws,amazon web services,ec2,s3,rds,lambda,iam",Cloud,1.2
+Azure,Cloud,"azure,microsoft azure,active directory",Cloud,1.1
+Google Cloud Platform,Cloud,"gcp,google cloud,google cloud platform,bigquery,gcs",Cloud,1.1
+Kubernetes,Cloud,"kubernetes,k8s,eks,gke,aks",DevOps,1.2
+Docker,Cloud,"docker,dockerfile,docker-compose",DevOps,1.1
+PostgreSQL,Database,"postgresql,postgres",SQL,1.0
+MongoDB,Database,"mongodb,mongo,nosql",Database,1.0
+MySQL,Database,"mysql,my-sql",SQL,0.9
+Redis,Database,"redis,caching",Database,1.0
+DynamoDB,Database,"dynamodb,amazon dynamodb",AWS,1.1
+Oracle Database,Database,"oracle,pl-sql",SQL,0.9
+Cassandra,Database,"cassandra,apache cassandra",Database,1.0
+Git,DevOps,"git,github,gitlab,version control",Tools,0.9
+Jenkins,DevOps,"jenkins,ci/cd,cicd",DevOps,1.0
+GitHub Actions,DevOps,"github actions,github workflows",DevOps,1.0
+Terraform,DevOps,"terraform,iac,infrastructure as code",DevOps,1.2
+Ansible,DevOps,"ansible,configuration management",DevOps,1.0
+Linux,DevOps,"linux,bash,shell scripting,ubuntu,centos",Tools,0.9
+Jira,DevOps,"jira,confluence,agile,scrum",Tools,0.8
+Machine Learning,AI/ML,"machine learning,ml,predictive modeling",AI/ML,1.2
+Deep Learning,AI/ML,"deep learning,dl,neural networks",AI/ML,1.2
+Natural Language Processing,AI/ML,"natural language processing,nlp,text mining,spacy,nltk",AI/ML,1.2
+Computer Vision,AI/ML,"computer vision,cv,opencv",AI/ML,1.2
+Large Language Models,AI/ML,"llm,large language models,gpt,llama,transformers,huggingface",AI/ML,1.3
+Generative AI,AI/ML,"generative ai,genai,prompt engineering",AI/ML,1.2
+Data Science,AI/ML,"data science,data analysis,visualization",AI/ML,1.1
+MLOps,AI/ML,"mlops,mlflow,kubeflow,model deployment",AI/ML,1.2
+AWS Certified Solutions Architect,Certification,"aws solutions architect,aws certified,aws csa",AWS,1.1
+Certified Kubernetes Administrator,Certification,"cka,kubernetes administrator",Kubernetes,1.2
+Project Management Professional,Certification,"pmp,pmp certification",Tools,1.1
+Scrum Master,Certification,"csm,certified scrum master",Tools,1.0
+Communication,Soft Skill,"communication,presentation,written,verbal",Soft Skills,0.9
+Leadership,Soft Skill,"leadership,team management,mentoring,mentorship",Soft Skills,1.0
+Problem Solving,Soft Skill,"problem solving,analytical thinking,critical thinking",Soft Skills,0.9
+Collaboration,Soft Skill,"collaboration,teamwork,cross-functional",Soft Skills,0.9
+Agile,Soft Skill,"agile,scrum,kanban",Soft Skills,0.9
+Project Management,Soft Skill,"project management,planning,delivery,milestones",Soft Skills,1.0

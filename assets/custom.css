@@ -1,0 +1,105 @@
+/* Custom CSS for Explainable Resume ATS Optimizer */
+
+/* Glassmorphism Card Style */
+.glass-card {
+    background: rgba(30, 34, 53, 0.6) !important;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.08) !important;
+    border-radius: 12px !important;
+    padding: 24px !important;
+    margin-bottom: 20px !important;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Metric Display Wrapper */
+.metric-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin: 8px 0;
+    border-left: 4px solid #6C63FF;
+}
+
+.metric-label {
+    font-size: 14px;
+    color: #A0AEC0;
+    font-weight: 500;
+}
+
+.metric-value {
+    font-size: 18px;
+    color: #FFFFFF;
+    font-weight: 700;
+}
+
+/* Title Styling */
+.gradient-text {
+    background: linear-gradient(135deg, #6C63FF 0%, #00F2FE 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+}
+
+/* Custom Skill Badges */
+.skill-badge {
+    display: inline-block;
+    padding: 6px 12px;
+    margin: 4px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.badge-match {
+    background-color: rgba(72, 187, 120, 0.15);
+    color: #48BB78;
+    border: 1px solid rgba(72, 187, 120, 0.3);
+}
+
+.badge-missing {
+    background-color: rgba(245, 101, 101, 0.15);
+    color: #F56565;
+    border: 1px solid rgba(245, 101, 101, 0.3);
+}
+
+.badge-priority-high {
+    background-color: rgba(236, 137, 54, 0.15);
+    color: #ED8936;
+    border: 1px solid rgba(236, 137, 54, 0.3);
+}
+
+.badge-priority-low {
+    background-color: rgba(66, 153, 225, 0.15);
+    color: #4299E1;
+    border: 1px solid rgba(66, 153, 225, 0.3);
+}
+
+/* Callout Styles */
+.info-callout {
+    border-left: 4px solid #6C63FF;
+    background-color: rgba(108, 99, 255, 0.05);
+    padding: 12px;
+    border-radius: 0 8px 8px 0;
+    margin: 10px 0;
+}
+
+.warning-callout {
+    border-left: 4px solid #ED8936;
+    background-color: rgba(236, 137, 54, 0.05);
+    padding: 12px;
+    border-radius: 0 8px 8px 0;
+    margin: 10px 0;
+}
+
+.success-callout {
+    border-left: 4px solid #48BB78;
+    background-color: rgba(72, 187, 120, 0.05);
+    padding: 12px;
+    border-radius: 0 8px 8px 0;
+    margin: 10px 0;
+}
