@@ -8,8 +8,12 @@ from typing import Dict, List, Any
 
 # Programmatically load spaCy model
 def get_spacy_nlp():
-    """Load the small English spaCy model."""
-    return spacy.load("en_core_web_sm")
+    """Load the small English spaCy model directly as a python module."""
+    try:
+        import en_core_web_sm
+        return en_core_web_sm.load()
+    except ImportError:
+        return spacy.load("en_core_web_sm")
 
 def extract_text_from_pdf(pdf_path: str) -> str:
     """Extracts all text from a PDF file using PyMuPDF (fitz) or pdfplumber."""
